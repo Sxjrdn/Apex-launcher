@@ -14,6 +14,8 @@ apex-launcher-win32-x64
 *.local
 .env
 *.env
+*.cjs
+src/
 src/App1111111111.jsx
 src/New folder/
 
